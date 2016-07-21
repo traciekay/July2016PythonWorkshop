@@ -13,19 +13,15 @@ IDEs and text editors best for python (Sublime Text, Pycharm, Atom)
 > Python's CLI should also be defined, explained and used for examples in both 2.7 and 3.x  
 
 2. Variable Exercises:  
-
 > This involves farmiliarizing with variables as memory locations in various operations such as arithmetics.  
 > The students will also be introduced to Strings in Python and Datatypes which will also be compared to other programming languages thus exposing a number of python efficiencies  
 
 3. Operators:  
-
 > The students will be introduced to python operators then a walkthrough on various operations and expressions  
 
 4. Conditionals Exercises:  
-
 > This section will farmiliarize the students with decision making in python on operations and arithmetics.  
-> At this point there will be a quick walkthrough on [iNewton]() which demonstrates conditionals, variables and strings.  
+> At this point there will be a quick walkthrough on [iNewton](https://github.com/moringaschool/July2016PythonWorkshop/blob/master/Activities/iNetwon.py) which demonstrates conditionals, variables and strings.  
 
 5. Loop Exercises:  
-
 > The students will be introduced to control structures; Looping statements which will allow for more complex solutions and execution paths
