@@ -15,6 +15,7 @@ IDEs and text editors best for python (Sublime Text, Pycharm, Atom)
 2. Variable Exercises:  
 > This involves farmiliarizing with variables as memory locations in various operations such as arithmetics.  
 > The students will also be introduced to Strings in Python and Datatypes which will also be compared to other programming languages thus exposing a number of python efficiencies  
+> The students will also be introduced to python functions
 
 3. Operators:  
 > The students will be introduced to python operators then a walkthrough on various operations and expressions  

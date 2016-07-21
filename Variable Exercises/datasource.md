@@ -4,4 +4,5 @@
 2. Using strings
 3. Lists  
 4. Dictionaries(kwargs)  
-5. Objects
+5. Objects  
+6. Functions
