@@ -7,3 +7,19 @@ Moreover Users on Windows Xp quick walkthrough [here](http://dooling.com/index.p
 IDEs and text editors best for python (Sublime Text, Pycharm, Atom)  
 
 #### Schedule Flow:  
+
+1. General Syntax:  
+> This will involve setting up python files with the '.py' extension, code syntax formatting and running the first 'Hello Word' script on the terminal  
+> Python's CLI should also be defined, explained and used for examples in both 2.7 and 3.x  
+
+2. Variable Exercises:  
+
+> This involves farmiliarizing with variables as memory locations in various operations such as arithmetics.  
+> The students will also be introduced to Strings in Python and Datatypes which will also be compared to other programming languages thus exposing a number of python efficiencies  
+
+3. Operators:  
+
+
+4. Conditionals Exercises:
+
+5. Loop Exercises:
