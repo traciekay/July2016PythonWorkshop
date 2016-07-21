@@ -19,6 +19,7 @@ def print_two(arg1, arg2):
 def print_none():
     print "Nothing to see."
 
+
 print_two("Moringa", "School")
 print_one("MS")
 print_none()
