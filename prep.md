@@ -19,7 +19,13 @@ IDEs and text editors best for python (Sublime Text, Pycharm, Atom)
 
 3. Operators:  
 
+> The students will be introduced to python operators then a walkthrough on various operations and expressions  
 
-4. Conditionals Exercises:
+4. Conditionals Exercises:  
 
-5. Loop Exercises:
+> This section will farmiliarize the students with decision making in python on operations and arithmetics.  
+> At this point there will be a quick walkthrough on [iNewton]() which demonstrates conditionals, variables and strings.  
+
+5. Loop Exercises:  
+
+> The students will be introduced to control structures; Looping statements which will allow for more complex solutions and execution paths
