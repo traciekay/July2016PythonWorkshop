@@ -8,7 +8,7 @@ Source: google.com
 #### Formatting Python Code  
 PEP8 is the style guide for formatting python code  
 The following are considered when applying PEP8 standards:  
-> Indentation - Allows for 4 spaces per indentation level  
+1. Indentation - Allows for 4 spaces per indentation level  
 
 ```
 def():
@@ -17,7 +17,7 @@ def():
 
 ```
 
-> Commenting - Python allows for inline and block comments  
+2. Commenting - Python allows for inline and block comments  
 > Block comments are preceded with a '#' and a single space unless it's indented text inside the comment  
 > An inline comment is a comment on the same line as a statement. They should be seperated at least two spaces from the statement. They should also start with a '#' and a single space  
 
@@ -49,7 +49,6 @@ The following are commonly distnguished:
 > Capitalized_Words_With_Underscores  
 
 In addition, using leading or trailing underscores are recognized e.g. _tom_and_jerry, mike_and_molly_  
-
 Class names should normally user the CapWords convention.  
 
 #### Method Names and Instance Variables:  
