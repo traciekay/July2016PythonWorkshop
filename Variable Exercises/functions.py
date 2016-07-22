@@ -1,18 +1,21 @@
-#functions
+"""
+Functions
 
+NOTE: functions can take parameters in order to achieve specific processing needs
+"""
 
 
 
 #function with one argument
-def print_one(arg1):
-    print "arg1: %r" %arg1
+def print_one(odm):
+    print "odm: %r" %odm
 
-def print_arg(arg1):
-	print arg1
+def print_arg(odm):
+	print odm
 
 #function with two arguments
-def print_two(arg1, arg2):
-    print "arg1: %r, arg2: %r" %(arg1, arg2)
+def print_two(odm, tna):
+    print "odm: %r, tna: %r" %(odm, tna)
 
 
 #function with no arguments

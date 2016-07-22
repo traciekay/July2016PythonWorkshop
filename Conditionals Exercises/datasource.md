@@ -2,4 +2,4 @@
 
 1. Selecting code with if and else conditional statements  
 2. Setting multiple choices with elif  
-3. Using the conditional expression
+3. Using the conditional expression (greateer or less than)
