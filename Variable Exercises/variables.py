@@ -8,7 +8,7 @@ drivers = 30
 passengers = 90
 
 
-print "There are", cars, "cars available"
-print "There are only", drivers, "drivers available"
-print "There will be", drivers, "drivers in the race today"
-print "We have", passengers, "passengers to carpool today"
+print "There are %r cars available" %cars
+print "There are only %f drivers available" %drivers
+print "There will be %d drivers in the race today" %drivers
+print "We have %t passengers to carpool today" %passengers
