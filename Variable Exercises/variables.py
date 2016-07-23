@@ -9,6 +9,6 @@ passengers = 90
 
 
 print "There are %r cars available" %cars
-print "There are only %f drivers available" %drivers
-print "There will be %d drivers in the race today" %drivers
-print "We have %t passengers to carpool today" %passengers
+print "There are only %r drivers available" %drivers
+print "There will be %r drivers in the race today" %drivers
+print "We have %r passengers to carpool today" %passengers
