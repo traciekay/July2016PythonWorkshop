@@ -1,8 +1,8 @@
 
+# This module demonstrates a simple for loop that iterates over car numbers
+# and prints the values in the terminal
 
+cars = 100
 
-# def for():
-#     s = 'this is a string'
-#     for c in s:
-#         print(c)
-
+for car in range(cars):
+	print car
