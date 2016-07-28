@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 """
-A module is a file containing Python definitions and statements.
+A module is a file containing Python Clases and Functions.
 The file name is the module name with the suffix .py appended.
 
 A module can contain executable statements as well as fuction definitions. These statements are
