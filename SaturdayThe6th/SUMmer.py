@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 Create a function that:
 	1. Halves even numbers
