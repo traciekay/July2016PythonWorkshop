@@ -18,7 +18,7 @@ As much as it's a really awesome idea to use modules, you should however not ins
 By now, you should have understood why it is important (and sane) to separate the dependencies of your projects and that no Python package should be installed under the main Python installation.  
 
 The virtual environment does the following:  
-1. Creates a new instance of your main Python installation in a particular directory.
+1. Creates a new instance of your main Python installation in a particular directory.  
 2. It provides tools for you to activate and deactivate these instances in a way that whenever 	they are activated, they have precedence on your system's PATH. In other words, it means that if you activated your virtualenv and attempted to run any Python binary, it is going to look for it in the new instance's directory first.  
 
 In order to use Python modules, installation is done through pip as below:  
